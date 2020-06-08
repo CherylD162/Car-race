@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(712): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(720): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(728): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(737): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(746): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(753): warning C4018: '<': signed/unsigned mismatch
+c:\users\divya cheryl moras\source\repos\car\car\main.cpp(761): warning C4018: '<': signed/unsigned mismatch
+  Car.vcxproj -> C:\Users\DIVYA CHERYL MORAS\source\repos\Car\Debug\Car.exe
